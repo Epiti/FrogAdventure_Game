@@ -43,9 +43,9 @@ A fun adventure platformer game built with Flutter and Flame.
 
 ## Screenshots
 
-![Main Menu](assets/screenshots/Screen1.png)
+![Welcome to Frogventure](assets/screenshots/Screen1.png)
 ![Gameplay](assets/screenshots/Screen2.png)
-![Checkpoint](assets/screenshots/Screen3.png)
+![Main Menu ](assets/screenshots/Screen3.png)
 
 
 ## License
