@@ -1,16 +1,56 @@
-# adventure_game
+# Frogventure
 
-A new Flutter project.
+A fun adventure platformer game built with Flutter and Flame.
+
+## Features
+
+- Play as a frog character
+- Collect fruits
+- Avoid obstacles and enemies
+- Reach checkpoints to level up
+- Sound effects and animations
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Running the Game
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```
+   git clone https://github.com/Epiti/FrogAdventure_Game
+   cd adventure_game
+   ```
+
+2. Get dependencies:
+   ```
+   flutter pub get
+   ```
+
+3. Run the game:
+   ```
+   flutter run
+   ```
+   Select your target device (Windows, Chrome, etc.) when prompted.
+
+## Controls
+
+- **Arrow keys / A/D:** Move left/right
+- **Space:** Jump
+
+## Screenshots
+
+![Main Menu](assets/screenshots/Screen1.png)
+![Gameplay](assets/screenshots/Screen2.png)
+![Checkpoint](assets/screenshots/Screen3.png)
+
+
+## License
+
+MIT
+
+---
+
