@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="40" height="23" tilewidth="16" tileheight="16" infinite="0" nextlayerid="8" nextobjectid="272">
+ <tileset firstgid="1" source="Pixel Adventure.tsx"/>
+ <layer id="1" name="background" width="40" height="23">
+  <properties>
+   <property name="BackgroundColor" value="Yellow"/>
+  </properties>
+  <data encoding="csv">
+24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,
+24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,
+24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,
+24,24,24,101,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,103,24,24,24,24,24,
+24,24,24,126,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,126,24,24,24,24,24,
+24,24,24,126,56,56,56,56,56,56,56,56,56,56,56,56,49,49,49,56,56,49,49,49,49,49,49,49,49,71,56,56,56,56,126,24,24,24,24,24,
+24,24,24,126,56,56,56,56,56,56,49,49,49,49,49,49,49,49,49,49,49,49,49,49,49,49,49,49,49,49,56,56,56,56,126,24,24,24,24,24,
+24,24,24,126,71,71,71,71,56,56,56,56,56,56,70,70,70,194,195,195,196,71,49,49,71,71,56,0,0,0,71,71,71,71,126,24,24,24,24,24,
+24,24,24,126,50,50,50,50,56,56,56,56,56,70,70,70,56,0,0,0,50,49,56,56,56,56,56,56,56,56,50,70,70,70,126,24,24,24,24,24,
+24,24,24,126,56,56,70,70,70,70,56,56,56,0,0,0,56,0,0,0,49,49,50,50,0,0,0,56,56,56,56,56,56,56,126,24,24,24,24,24,
+24,24,24,126,70,71,71,71,71,70,70,194,195,196,70,70,70,70,0,0,0,0,49,71,194,195,196,71,71,56,56,56,56,56,126,24,24,24,24,24,
+24,24,24,126,56,49,49,49,49,56,56,70,70,70,70,70,56,194,195,196,71,0,0,0,71,71,71,56,56,56,49,49,49,56,126,24,24,24,24,24,
+24,24,24,126,70,70,70,56,56,56,56,70,70,70,56,56,56,56,56,70,70,56,56,69,69,69,69,54,48,48,48,0,56,56,126,24,24,24,24,24,
+24,24,24,126,56,56,70,71,194,195,196,70,70,70,70,70,71,71,71,137,137,71,71,71,71,72,49,194,195,196,56,56,56,56,126,24,24,24,24,24,
+24,24,24,126,56,56,56,70,56,56,56,54,54,70,70,70,70,71,70,70,70,70,70,70,70,71,71,71,49,72,72,56,56,56,126,24,24,24,24,24,
+24,24,24,126,56,56,56,56,70,70,70,71,71,70,194,195,196,71,70,70,70,194,195,196,70,70,70,72,72,72,56,56,56,56,126,24,24,24,24,24,
+24,24,24,126,56,56,56,56,56,56,71,71,71,71,56,71,71,71,71,56,72,72,72,72,49,49,49,49,72,49,56,54,54,54,126,24,24,24,24,24,
+24,24,24,126,183,184,185,50,50,50,71,71,71,71,71,71,56,56,56,56,72,50,50,50,50,49,72,72,49,49,49,70,70,70,126,24,24,24,24,24,
+24,24,24,126,205,206,207,50,50,50,56,71,71,71,71,71,56,56,56,56,72,72,70,70,70,49,72,72,49,49,70,106,107,108,126,24,24,24,24,24,
+24,24,24,126,227,228,229,50,50,50,56,56,71,71,71,71,56,56,56,56,56,56,56,56,49,72,72,72,49,49,70,150,151,152,126,24,24,24,24,24,
+24,24,24,101,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,102,103,24,24,24,24,24,
+24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,
+24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24
+</data>
+ </layer>
+ <objectgroup id="3" name="Kollisions">
+  <object id="12" x="48" y="48" width="512" height="16"/>
+  <object id="16" x="544" y="64" width="16" height="256"/>
+  <object id="18" x="48" y="64" width="16" height="256"/>
+  <object id="20" x="48" y="320" width="512" height="16"/>
+  <object id="26" x="64" y="272" width="48" height="48"/>
+  <object id="131" name="PTFM" type="Platform" x="272" y="112" width="64" height="16"/>
+  <object id="159" x="224" y="240" width="48" height="16"/>
+  <object id="183" name="PTFM" type="Platform" x="384" y="160" width="48" height="16"/>
+  <object id="195" name="PTFM" type="Platform" x="336" y="240" width="48" height="16"/>
+  <object id="197" name="PTFM" type="Platform" x="128" y="208" width="48" height="16"/>
+  <object id="232" name="PTFM" type="Platform" x="176" y="160" width="48" height="16"/>
+  <object id="233" name="PTFM" type="Platform" x="432" y="208" width="48" height="16"/>
+  <object id="250" name="PTFM" type="Platform" x="224" y="240" width="48" height="16"/>
+ </objectgroup>
+ <objectgroup id="2" name="StartPoint">
+  <object id="7" name="joueur" type="Player" x="64" y="240" width="22.3077" height="37.6923"/>
+  <object id="138" type="CheckPoint" x="288" y="64" width="32" height="48"/>
+  <object id="154" name="Apple" type="Fruit" x="272" y="144" width="32" height="32"/>
+  <object id="185" name="Trap" type="Saw" x="64" y="128" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="false"/>
+    <property name="offsetNegative" type="float" value="0"/>
+    <property name="offsetPositive" type="float" value="11"/>
+   </properties>
+  </object>
+  <object id="193" name="Orange" type="Fruit" x="400" y="128" width="32" height="32"/>
+  <object id="202" name="Bananas" type="Fruit" x="176" y="128" width="32" height="32"/>
+  <object id="215" name="Trap" type="Saw" x="464" y="240" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="true"/>
+    <property name="offsetNegative" type="float" value="0"/>
+    <property name="offsetPositive" type="float" value="3"/>
+   </properties>
+  </object>
+  <object id="227" name="Kiwi" type="Fruit" x="368" y="128" width="32" height="32"/>
+  <object id="230" name="Pineapple" type="Fruit" x="192" y="128" width="32" height="32"/>
+  <object id="234" name="Kiwi" type="Fruit" x="128" y="176" width="32" height="32"/>
+  <object id="235" name="Apple" type="Fruit" x="144" y="176" width="32" height="32"/>
+  <object id="236" name="Trap" type="Saw" x="112" y="288" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="false"/>
+    <property name="offsetNegative" type="float" value="0"/>
+    <property name="offsetPositive" type="float" value="5"/>
+   </properties>
+  </object>
+  <object id="237" name="Trap" type="Saw" x="160" y="288" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="false"/>
+    <property name="offsetNegative" type="float" value="3"/>
+    <property name="offsetPositive" type="float" value="5"/>
+   </properties>
+  </object>
+  <object id="238" name="Trap" type="Saw" x="224" y="288" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="false"/>
+    <property name="offsetNegative" type="float" value="4"/>
+    <property name="offsetPositive" type="float" value="4"/>
+   </properties>
+  </object>
+  <object id="239" name="Trap" type="Saw" x="288" y="288" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="false"/>
+    <property name="offsetNegative" type="float" value="4"/>
+    <property name="offsetPositive" type="float" value="4"/>
+   </properties>
+  </object>
+  <object id="240" name="Trap" type="Saw" x="352" y="288" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="false"/>
+    <property name="offsetNegative" type="float" value="4"/>
+    <property name="offsetPositive" type="float" value="4"/>
+   </properties>
+  </object>
+  <object id="241" name="Trap" type="Saw" x="416" y="288" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="false"/>
+    <property name="offsetNegative" type="float" value="2"/>
+    <property name="offsetPositive" type="float" value="3"/>
+   </properties>
+  </object>
+  <object id="242" type="CheckPoint" x="512" y="240" width="32" height="48"/>
+  <object id="244" name="Trap" type="Saw" x="512" y="160" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="true"/>
+    <property name="offsetNegative" type="float" value="0"/>
+    <property name="offsetPositive" type="float" value="6"/>
+   </properties>
+  </object>
+  <object id="245" name="Trap" type="Saw" x="288" y="208" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="false"/>
+    <property name="offsetNegative" type="float" value="7"/>
+    <property name="offsetPositive" type="float" value="7"/>
+   </properties>
+  </object>
+  <object id="246" name="Trap" type="Saw" x="272" y="128" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="false"/>
+    <property name="offsetNegative" type="float" value="0"/>
+    <property name="offsetPositive" type="float" value="9"/>
+   </properties>
+  </object>
+  <object id="247" name="Trap" type="Saw" x="448" y="128" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="false"/>
+    <property name="offsetNegative" type="float" value="1"/>
+    <property name="offsetPositive" type="float" value="4"/>
+   </properties>
+  </object>
+  <object id="248" name="Trap" type="Saw" x="208" y="64" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="false"/>
+    <property name="offsetNegative" type="float" value="4"/>
+    <property name="offsetPositive" type="float" value="7"/>
+   </properties>
+  </object>
+  <object id="249" name="Trap" type="Saw" x="368" y="64" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="false"/>
+    <property name="offsetNegative" type="float" value="10"/>
+    <property name="offsetPositive" type="float" value="5"/>
+   </properties>
+  </object>
+  <object id="251" name="Trap" type="Saw" x="64" y="176" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="false"/>
+    <property name="offsetNegative" type="float" value="0"/>
+    <property name="offsetPositive" type="float" value="8"/>
+   </properties>
+  </object>
+  <object id="252" name="Apple" type="Fruit" x="128" y="288" width="32" height="32"/>
+  <object id="253" name="Apple" type="Fruit" x="176" y="288" width="32" height="32"/>
+  <object id="254" name="Apple" type="Fruit" x="208" y="288" width="32" height="32"/>
+  <object id="255" name="Apple" type="Fruit" x="240" y="288" width="32" height="32"/>
+  <object id="256" name="Apple" type="Fruit" x="272" y="288" width="32" height="32"/>
+  <object id="257" name="Apple" type="Fruit" x="304" y="288" width="32" height="32"/>
+  <object id="258" name="Orange" type="Fruit" x="320" y="288" width="32" height="32"/>
+  <object id="259" name="Orange" type="Fruit" x="368" y="288" width="32" height="32"/>
+  <object id="260" name="Bananas" type="Fruit" x="384" y="288" width="32" height="32"/>
+  <object id="261" name="Bananas" type="Fruit" x="432" y="288" width="32" height="32"/>
+  <object id="262" name="Bananas" type="Fruit" x="464" y="288" width="32" height="32"/>
+  <object id="263" name="Bananas" type="Fruit" x="224" y="208" width="32" height="32"/>
+  <object id="264" name="Apple" type="Fruit" x="288" y="144" width="32" height="32"/>
+  <object id="265" name="Bananas" type="Fruit" x="240" y="208" width="32" height="32"/>
+  <object id="266" name="Orange" type="Fruit" x="336" y="208" width="32" height="32"/>
+  <object id="267" name="Pineapple" type="Fruit" x="352" y="208" width="32" height="32"/>
+  <object id="268" name="Pineapple" type="Fruit" x="432" y="176" width="32" height="32"/>
+  <object id="269" name="Orange" type="Fruit" x="448" y="176" width="32" height="32"/>
+  <object id="270" name="Trap" type="Saw" x="240" y="128" width="32" height="32">
+   <properties>
+    <property name="isVertical" type="bool" value="true"/>
+    <property name="offsetNegative" type="float" value="4"/>
+    <property name="offsetPositive" type="float" value="0"/>
+   </properties>
+  </object>
+  <object id="271" name="PTFM" type="Platform" x="272" y="176" width="48" height="16"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,80 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level_01.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Level.01.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 323.46153846153845,
+                "y": 169.6153846153846
+            }
+        },
+        "Level.02.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.3596875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 319.55872213284306,
+                "y": 184.23350953803725
+            }
+        },
+        "Level_01.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.3596875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.2941852447713,
+                "y": 184.23350953803725
+            }
+        },
+        "Level_02.tmx": {
+            "scale": 1.3596875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.2941852447713,
+                "y": 184.23350953803725
+            }
+        },
+        "Pixel Adventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/godwin/Desktop/pixel_adventure/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Level_01.tmx",
+        "Level_02.tmx"
+    ],
+    "project": "Pixel Adventure.tiled-project",
+    "recentFiles": [
+        "Level_02.tmx",
+        "Level_01.tmx",
+        "Level.02.tmx",
+        "Level.01.tmx",
+        "Pixel Adventure.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
