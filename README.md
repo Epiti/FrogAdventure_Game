@@ -19,7 +19,7 @@ A fun adventure platformer game built with Flutter and Flame.
 
 ### Running the Game
 
-1. Clone the repository:
+1. Clone the repository :
    ```
    git clone https://github.com/Epiti/FrogAdventure_Game
    cd adventure_game
