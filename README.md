@@ -30,7 +30,7 @@ A fun adventure platformer game built with Flutter and Flame.
    flutter pub get
    ```
 
-3. Run the game:
+3. Run the game :
    ```
    flutter run
    ```
