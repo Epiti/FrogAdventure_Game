@@ -19,18 +19,18 @@ A fun adventure platformer game built with Flutter and Flame.
 
 ### Running the Game
 
-1. Clone the repository :
+1. Clone the repository:
    ```
    git clone https://github.com/Epiti/FrogAdventure_Game
    cd adventure_game
    ```
 
-2. Get dependencies :
+2. Get dependencies:
    ```
    flutter pub get
    ```
 
-3. Run the game :
+3. Run the game:
    ```
    flutter run
    ```
@@ -41,7 +41,7 @@ A fun adventure platformer game built with Flutter and Flame.
 - **Arrow keys / A/D:** Move left/right
 - **Space:** Jump
 
-## Screenshots :
+## Screenshots:
 
 ![Welcome to Frogventure](assets/screenshots/Screen1.png)
 ![Gameplay](assets/screenshots/Screen2.png)
