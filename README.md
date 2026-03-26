@@ -25,7 +25,7 @@ A fun adventure platformer game built with Flutter and Flame.
    cd adventure_game
    ```
 
-2. Get dependencies:
+2. Get dependencies :
    ```
    flutter pub get
    ```
