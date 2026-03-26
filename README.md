@@ -41,7 +41,7 @@ A fun adventure platformer game built with Flutter and Flame.
 - **Arrow keys / A/D:** Move left/right
 - **Space:** Jump
 
-## Screenshots
+## Screenshots :
 
 ![Welcome to Frogventure](assets/screenshots/Screen1.png)
 ![Gameplay](assets/screenshots/Screen2.png)
